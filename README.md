@@ -7,5 +7,5 @@ These experiments were performed as a part of Big Data Course in Semester 6 of o
 * Devansh Parikh
 
 ### Authors
-* Kritik Seth J043
-* Tazeem Khan J068
+* [Kritik Seth J043](https://github.com/kritikseth)
+* [Tazeem Khan J068](https://github.com/TazeemKhan9)
